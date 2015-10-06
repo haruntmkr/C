@@ -1,1 +1,0 @@
-haurn tamokur readme dosyası
