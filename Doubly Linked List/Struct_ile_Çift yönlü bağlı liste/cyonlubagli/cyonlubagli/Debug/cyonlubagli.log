@@ -1,0 +1,21 @@
+﻿Build started 06.11.2014 13:11:54.
+     1>Project "D:\derslerim\5. yy\veri yapıları\veri yapıları kodlarım\6.çift yönlü bağlı liste\cyonlubagli\cyonlubagli\cyonlubagli.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\cyonlubagli.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\cyonlubagli.unsuccessfulbuild".
+         Touching "Debug\cyonlubagli.lastbuildstate".
+     1>Done Building Project "D:\derslerim\5. yy\veri yapıları\veri yapıları kodlarım\6.çift yönlü bağlı liste\cyonlubagli\cyonlubagli\cyonlubagli.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
